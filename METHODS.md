@@ -1,10 +1,10 @@
 
 ## Part 1: Methods
 ### Product Management
-*Purpose* 
+**Purpose** 
 The goal of this section is to prepare the CAMD for managing the design and development of its products in collaboration with vendor teams. 
 
-*How to use this section*
+**How to use this section**
 You’ll use the methods in this section to:
 - Maintain a clear vision for the CAMD suite
 - Identify the highest value work to pursue
@@ -50,10 +50,10 @@ You’ll use the methods in this section to:
 
 
 ### User Research
-*Purpose*
+**Purpose**
 The goal of this section is to introduce practices that will help the CAMD ensure that user needs drive the design and development of the CAMD suite.
 
-*How to use this section* 
+**How to use this section** 
 You’ll use the methods in this section to: 
 - understand your users and what they need from the CAMDS 
 - communicate user needs with your vendor team
@@ -84,12 +84,12 @@ You’ll use the methods in this section to:
 
 ### Tech best practices
 
-“Programs must be written for people to read, and only incidentally for machines to execute.” 
+*“Programs must be written for people to read, and only incidentally for machines to execute.”*
 
-*Purpose*
+**Purpose**
 The goal of this section is for a potential government tech lead in CAMD to be able to more confidently navigate the post-award management of a vendor-provided custom software development team, as they oversee a solicitation’s Quality Assurance Surveillance Plan (QASP).
 
-*How to use this section*
+**How to use this section**
 You’ll use the methods in this section to:
 - Support transitioning to a DevOps environment
 - Develop best practices in writing code
