@@ -2,7 +2,7 @@
 This resource guide exists to support the EPA's Clean Air Markets Divison (CAMD) team as it works with an Agile vendor to improve how the CAMD manages its emission data. 
 
 Included are:
-- **Product, ux, and tech methods.** Primarily materials here are slide decks that 18F and the CAMD product team covered during its engagement together. We include relevant MURALs that we developed together as well. 
+- [**Product, ux, and tech methods.**](https://github.com/18F/CAMD-resources/blob/master/METHODS.md) Primarily materials here are slide decks that 18F and the CAMD product team covered during its engagement together. We include relevant MURALs that we developed together as well. 
 
 - **Contextualization of these methods.** After introducing these methods, 18F places these them in the context of the CAMD’s future relationship with its vendor: what do we recommend the CAMD do while waiting for its vendor? While onboarding its vendor? While working with its vendor post-award? 
 
