@@ -22,36 +22,44 @@ We have been gathering user stories for a while now and we've talked about how t
 - after developing journey maps and value proposition canvases, come together as a team for a story writing workshop
 - gather these stories for your CAMD suite backlog. When you have vendors in place, this backlog will help you onboard them.
 
-#### Continue developing scrum experience
-- If any of you can take trainings, such as the scrum master certification training, now is a great time to do so.  
-- Continue working together as a cross-functional and cross-branch product team. Are there ways to apply practices from our mock project to the work that you do? Can you set a cadence in place of the entire CAMD product team continually collaborating together? Can you identify ways to continually improve lines of communications so that you continue to chip away at the natural siloes that form when you get caught in your day-to-day work? 
-
 #### Inventory EPA sites that offer similar or related value to AMPD
 - The EPA offers many public facing data resources that have overlap. Now is a great time to understand where these resources sit, what works well with them and what does not, where there is overlaps with AMPD and where there are distinctions. 
 - Take inventory and use this when you begin identifying user stories for public data consumers.
 
+#### Continue developing scrum experience
+- Continue working together as a cross-functional and cross-branch product team. Continue to plan work in sprints and hold your rituals. Continue to communicate with eachother. You've begun developing your team - keep growing together. See how you might apply scrum practices to other areas of your work.
+- If any of you can take trainings, such as the scrum master certification training, now is a great time to do so.  
+
 
 ## Onboarding
 
-We've talked about the benefits of working closely an collaboratively with your vendor rather than sending them of to work independently to execute on tasks. To develop a close an collaborative relationship, you need to set up how you want to work together. Some topics that you should definitely include are:
+We've talked about the benefits of working closely an collaboratively with your vendor rather than sending them of to work independently to execute on tasks. To develop a close an collaborative relationship, you need to set up how you want to work together. 
 
-- What communication tools do we want to use together?
+#### Hold a kick off workshop to set up your relationship. Some topics that you should definitely include are:
 
-- Where are we managing our work? This should be a place where vendors and the CAMD can access
+  - What communication tools do you want to use together?
+  - Where will you store work and artifacts? This should be a place where vendors and the CAMD can access
+  - What rituals/events will you hold together (sprint planning, sprint review, daily stand ups, etc)?
+  - Identify the systems/technologies will the vendors need access to
+  - Go through documentation best practices deck
+  - Set your **definition of done**, which will offer a common understanding of what needs to happen for a story to be complete. You can include criteria such as "code has been pair programmed or reviewed," "automated tests exist at all appropriae levels," "user documentation is updated," etc.).
+  
+#### Hold a backlog refinement workshop
+  - during this session, you can discuss the user stories in your backlog with your vendors. They'll be able to give you feedback and you'll begin to incorporate their feedback into your work prioritization
+  
+#### Make sure vendors have access to everything that they need to begin working
+  - This may sound basic, but it's not uncommon for vendors to wait a while before being able to get started becuase they can't get access to the necessary systems and tools. Be prepared to get them ready as soon as possible. 
 
-- What rituals/events will we hold together (sprint planning, sprint review, daily stand ups, etc)
-- 
-- Hold an initial kick off session to build a team charter or something like one. You want to establish what tools are best for communicating, where you're keeping documents, how long your sprints will be, the rituals that you'll participate in, etc.
-- make sure that vendors have access to all the relevant systems and software 
-- decide together on your definition
-
-
-### Relevant methods
-
-### Additional resources
 
 ## Post-award
 
-### Relelvant methods
+### Maintaining a collaborative relationship
+As you work with your vendor, you'll continue to be the experts in user and business needs - the elements that drive the vision of the product. Let your vendors be the experts on implementation, ie, how to achieve that vision. A few tips:
+- instead of thinking of your vendors as staff augmentation that you have to manage, think of them as collaborators on your cross-functional team. 
+- set a cadence of review for each sprint and give them heads down time to work in between sprint planning and sprint review.
+- communicate often and early
+- advocate for machine parsable code and plain language documentation
 
-Additional resources
+### Planning the work
+Since you'll be working in smaller increments than are typical in waterfall projects, you won't have a detailed, multi-year plan to start. This means that you'll have to do more planning along the way. 
+- set quartly planning sessions to write user stories and refine your backlog
