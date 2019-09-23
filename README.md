@@ -4,7 +4,7 @@ This resource guide exists to support the EPA's Clean Air Markets Divison (CAMD)
 Included are:
 - [**Product, ux, and tech methods.**](https://github.com/18F/CAMD-resources/blob/master/METHODS.md) Primarily materials here are slide decks that 18F and the CAMD product team covered during its engagement together. We include relevant MURALs that we developed together as well. 
 
-- [**Contextualization of these methods.**](https://github.com/18F/CAMD-resources/blob/master/PHASES.md). After introducing these methods, 18F places these them in the context of the CAMD’s future relationship with its vendor: what do we recommend the CAMD do while waiting for its vendor? While onboarding its vendor? While working with its vendor post-award? 
+- [**Contextualization of these methods.**](https://github.com/18F/CAMD-resources/blob/master/PHASES.md) After introducing these methods, 18F places these them in the context of the CAMD’s future relationship with its vendor: what do we recommend the CAMD do while waiting for its vendor? While onboarding its vendor? While working with its vendor post-award? 
 
 - **A library of additional relevant resources.** These are additional resources to help the CAMD grow its capacity in human centered design, product management, agile methods, and DevOps.
 
