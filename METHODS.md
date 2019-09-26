@@ -24,23 +24,23 @@ You’ll use the methods in this section to:
 - Scrum and Kanban
 - Introducing the Mock Project
 
-#### Ideation and Discovery: Product Market fit
+#### [Ideation and Discovery: Product Market fit](https://github.com/18F/CAMD-resources/blob/master/Week%203_%20Ideation%20and%20Discovery%20(1).pdf)
 - Product discovery
 - Understanding your beneficiaries
 - Discovery methods
 - Mission Model Canvas
 
-#### Value to your users
+#### [Value to your users](https://github.com/18F/CAMD-resources/blob/master/Week%204_%20Value%20to%20your%20users%20(1).pdf)
 - Value proposition canvas
 
-#### Working iteratively
+#### [Working iteratively](https://github.com/18F/CAMD-resources/blob/master/Week%205_%20Working%20iteratively.pdf)
 - Draft your hypothesis
 - Prioritize
 - Working iteratively
 - FedRAMP Dashboard, an example
 
 
-#### Understanding Where to Begin: Story mapping
+#### [Understanding Where to Begin: Story mapping](https://github.com/18F/CAMD-resources/blob/master/Week%206_%20Testing%20with%20users.pdf)
 - What are story maps and when do we use them
 
 #### [Documentation best practices](https://github.com/18F/CAMD-resources/blob/master/Documentation%20best%20practices.pdf)
@@ -109,20 +109,34 @@ You’ll use the methods in this section to:
 - Develop best practices in writing code
 - Develop a test-driven development practice
 
-#### DevOps
+#### [DevOps](https://github.com/18F/CAMD-resources/blob/master/Week%206_%20Testing%20with%20users.pdf)
 - What is DevOps?
 
-#### Principles to good code:
+#### [Principles to good code](https://github.com/18F/CAMD-resources/blob/master/Code%20Quality%20principles.pdf)
 - Consistency
 - Simplicity over cleverness
 - Quality of tests and testability
 - Single Responsibility Principle
 - Don’t Repeat Yourself (DRY)
 
-#### Principles to good code review
+#### [API design and implementation issues](https://github.com/18F/CAMD-resources/blob/master/API%20design%20and%20implementation%20principles.pdf)
+- the "ilities" (non-functional requirements) apply
+- API first design
+- REST vs everything else
+- tools that can help: OpenAPI and Postman
+- monolythic vs microservice
+- API governance and Conway's law
+- lightning round
+
+#### [Principles to good code review](https://github.com/18F/CAMD-resources/blob/master/Testing%20approaches%20and%20principles.pdf)
 - Have a checklist
 - Train developers how to provide and accept honest feedback an criticism
 - Provide a coding style guide
 - [provide] training in writing proper tests
 - Use the automated tools: linters, static analysis
 - Avoid bike shedding
+
+#### [Cloud-native apps](https://github.com/18F/CAMD-resources/blob/master/Cloud-native%20apps.pdf)
+- IaaS vs PaaS vs SaaS
+- VMs vs Containers vs Buildpacks
+- 12 Factor App
