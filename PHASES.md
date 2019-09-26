@@ -34,7 +34,7 @@ We have been gathering user stories for a while now and we've talked about how t
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 - [Managing stakeholder expectations template](https://github.com/18F/CAMD-resources/blob/master/e2f87e66-f412-4d82-8733-b40e4b4aa826.pdf)
-- - [Dollars to Donuts](https://portigal.com/podcast/), a podcast presenting interviews on user research, hosted by Steve Portigal.
+- [Dollars to Donuts](https://portigal.com/podcast/), a podcast presenting interviews on user research, hosted by Steve Portigal.
 
 ## Onboarding
 
