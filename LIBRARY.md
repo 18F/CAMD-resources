@@ -25,8 +25,6 @@
 ### Miscellaneous
 - [Dollars to Donuts](https://portigal.com/podcast/), a podcast presenting interviews on user research, hosted by Steve Portigal.
 
-
-
 ## Tech
 
 **On Code quality** 
