@@ -60,4 +60,17 @@
   - https://github.com/18F/culper 
 
 **Miscellaneous** 
-  - http://phk.freebsd.dk/sagas/bikeshed
+  - [bikeshedding](http://phk.freebsd.dk/sagas/bikeshed)
+  - [DevOps book](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+  
+  - GitHub, cloud.gov, CircleCI:
+    - https://github.com/18F/hello-ampd
+    - https://dashboard.fr.cloud.gov/#/
+    - https://hello-ampd.app.cloud.gov/
+    - https://circleci.com/gh/18F/workflows/hello-ampd
+
+  - Post-mortems, 5 whys:
+    - https://postmortems.pagerduty.com/what_is/#who-is-responsible-for-the-postmortem
+    - https://www.atlassian.com/team-playbook/plays/5-whys
+    - https://codeascraft.com/2012/05/22/blameless-postmortems/
+
