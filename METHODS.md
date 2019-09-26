@@ -13,7 +13,7 @@ You’ll use the methods in this section to:
 - Communicate product decision making with stakeholders who are outside of the CAMD product team
 - Identify who to involve in the work and when to do so
 
-#### People and Processes
+#### [People and Processes](https://github.com/18F/CAMD-resources/blob/master/Week%201_%20People%20and%20Process.pdf)
 - What’s the difference between project management and product management?
 - Why do products fail?
 - What are the characteristics of high performing teams?
