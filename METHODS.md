@@ -18,7 +18,7 @@ You’ll use the methods in this section to:
 - Why do products fail?
 - What are the characteristics of high performing teams?
 
-#### Practice Makes Perfect
+#### [Practice Makes Perfect](https://github.com/18F/CAMD-resources/blob/master/Week%202_%20Practice%20makes%20perfect.pdf)
 - Being Agile
 - Agile values
 - Scrum and Kanban
@@ -43,7 +43,7 @@ You’ll use the methods in this section to:
 #### Understanding Where to Begin: Story mapping
 - What are story maps and when do we use them
 
-#### Documentation best practices
+#### [Documentation best practices](https://github.com/18F/CAMD-resources/blob/master/Documentation%20best%20practices.pdf)
 - Documentation for code
 - Documentation for user research (including handling and storing PII)
 - Documentation tips, generally
@@ -63,17 +63,31 @@ You’ll use the methods in this section to:
 #### Conducting user Interviews 
 
 
-#### Identifying use cases + user flows
-- Our use case and user flow work in [MURAL](https://app.mural.co/t/gsa6/m/gsa6/1563828501832/297c861d5c108481f00d487705b30618df155b17)
-#### Creating personas
+#### [Identifying use cases + user flows](https://github.com/18F/CAMD-resources/blob/master/Use%20cases%20and%20user%20flows.pdf)
+- Why we gather use cases and user flows
+- how we gathered use cases
+- selecting a use case to focus on
 
-#### Creating journey Maps
+Our use case and user flow work in [MURAL](https://app.mural.co/t/gsa6/m/gsa6/1563828501832/297c861d5c108481f00d487705b30618df155b17)
 
-#### Usability testing 
+#### [Creating personas](https://github.com/18F/CAMD-resources/blob/master/_Personas.pdf)
+- what is a persona
+- why do we use personas
+- examples of personas pitfalls
+- keeping it simple
+
+
+#### [Creating user flows and journey maps](https://github.com/18F/CAMD-resources/blob/master/User%20Flows%20and%20Journey%20Maps.pdf)
+- the tl;dr
+- user flows
+- journey maps
+- pairing a journey map with a value proposition canvas to identify product opportunities
+
+#### [Testing with users](https://github.com/18F/CAMD-resources/blob/master/Testing%20with%20users.pdf) 
 - Cognitive walk throughs
 - Usability testing
 - User acceptance testing
-#### Working Responsibly with Personally Identifiable Information (PII)
+#### [Working Responsibly with Personally Identifiable Information (PII)](https://github.com/18F/CAMD-resources/blob/master/Ethics%20and%20Privacy%20in%20User%20Research.pdf)
 - Storing PII and determining access
 - Creating codes for research participants
 - Keeping notes clean of PII
