@@ -65,16 +65,16 @@ You’ll use the methods in this section to:
 
 #### [Identifying use cases + user flows](https://github.com/18F/CAMD-resources/blob/master/Use%20cases%20and%20user%20flows.pdf)
 - Why we gather use cases and user flows
-- how we gathered use cases
-- selecting a use case to focus on
+- How we gathered use cases
+- Selecting a use case to focus on
 
 Our use case and user flow work in [MURAL](https://app.mural.co/t/gsa6/m/gsa6/1563828501832/297c861d5c108481f00d487705b30618df155b17)
 
 #### [Creating personas](https://github.com/18F/CAMD-resources/blob/master/_Personas.pdf)
-- what is a persona
-- why do we use personas
-- examples of personas pitfalls
-- keeping it simple
+- What is a persona
+- Why do we use personas
+- Examples of persona pitfalls
+- Keeping it simple
 
 
 #### [Creating user flows and journey maps](https://github.com/18F/CAMD-resources/blob/master/User%20Flows%20and%20Journey%20Maps.pdf)
