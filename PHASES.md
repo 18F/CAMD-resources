@@ -7,30 +7,34 @@ In this section, we offer recommendations of how to apply this resource guide du
 ## Pre-award
 What should the CAMD product team work on after 18F rolls off this project and before a vendor is in place? There are a number of things that we suggest:
 
-#### Developing buy in from relevant agency-wide stakeholders
-As you prepare to adopt new ways of working (human centered design, Agile methods, DevOps, US Web Design System (USWDS), modular contracting), you'll need approval from offices outside of the CAMD. Now is a great time to start identifying who you need to bring into the fold. Many of these practices support agency-wide goals (for example, using the USWDS, will help the EPA comply with recently passed legislation requiring government websites to meet design and acessibility criteria). Can you position yourself as paving the path for the agency to follow?
-- start by conducting stakeholder mapping to identify your key decision makers and stakeholders
-- you know your agency best. Folks on the product team should work with CAMD leadership to develop strategies around how to do this best
+#### Map out your stakeholders and develop a strategy for building buy in
+You'll need approval from offices outside of the CAMD. Start understanding who these folks are and being building your relationships.
+ - Map out your paths to production and record the stakeholders that will be involved in that process.
+- Use [this template](https://github.com/18F/CAMD-resources/blob/master/e2f87e66-f412-4d82-8733-b40e4b4aa826.pdf) to map out who your stakeholders are and what level of communication you need to maintain with them  
+- socialize non-functional requirements to relevant stakeholders
 
 #### Continue with journey maps and value proposition canvases
 We have mapped out user processes in a number of ways - through use cases, user flows, and journey maps. Journey maps help us go deeper into the user's experience. We touched upon this practice but there's still more to do. 
-- continue to develop journey maps for the existing CAMD suite personas that you've created
+- continue to develop journey maps for the existing CAMD suite personas that you've created.
 - use those journey maps to sketch out value proposition canvases; this process will help you think about what stories you want to put in your backlog.
 
-#### Continue to build your backlog
+#### Continue to story map
 We have been gathering user stories for a while now and we've talked about how these stories will help your vendors understand what user needs the CAMD suite should address.
-- after developing journey maps and value proposition canvases, come together as a team for a story writing workshop
-- gather these stories for your CAMD suite backlog. When you have vendors in place, this backlog will help you onboard them.
+- After developing journey maps and value proposition canvases, come together as a team for a story writing workshop
+- When you have vendors in place, this story map will help you onboard them. It will also serve as the basis for the backlog that you build together.
 
 #### Inventory EPA sites that offer similar or related value to AMPD
-- The EPA offers many public facing data resources that have overlap. Now is a great time to understand where these resources sit, what works well with them and what does not, where there is overlaps with AMPD and where there are distinctions. 
-- Take inventory and use this when you begin identifying user stories for public data consumers.
+- The EPA offers many public facing data resources that have overlap. Understand where there is overlaps with AMPD and where there are distinctions. Take inventory and use this when you begin identifying user stories for public data consumers.
 
 #### Continue developing scrum experience
-- Continue working together as a cross-functional and cross-branch product team. Continue to plan work in sprints and hold your rituals. Continue to communicate with eachother. You've begun developing your team - keep growing together. See how you might apply scrum practices to other areas of your work.
+- Continue working together as a cross-functional and cross-branch product team. You've begun developing your team - keep growing together. See how you might apply scrum practices to other areas of your work.
 - If any of you can take trainings, such as the scrum master certification training, now is a great time to do so.  
 
-
+#### Study Materials
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+- [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+- [Managing stakeholder expectations template](https://github.com/18F/CAMD-resources/blob/master/e2f87e66-f412-4d82-8733-b40e4b4aa826.pdf)
+-
 ## Onboarding
 
 We've talked about the benefits of working closely an collaboratively with your vendor rather than sending them of to work independently to execute on tasks. To develop a close an collaborative relationship, you need to set up how you want to work together. 
