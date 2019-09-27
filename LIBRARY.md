@@ -2,6 +2,7 @@
 - Melissa Perri's [blog](https://melissaperri.com/blog/) and her book, [The Build Trap](https://melissaperri.com/book)
 - [The Scrum guide](https://www.scrumguides.org/scrum-guide.html)
 - Jeff Patton on story mapping: his book, [User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909), and a quick reference PDF, [Story Map Concepts](https://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)
+- Suggested product reading list - https://usepa.sharepoint.com/sites/oar_Work/ampdupdate/Shared%20Documents/18F%20Share/Final%20PA%20deliverables%20from%2018F/User%20Flows.pdf
 
 ## Previous 18F Projects
 - [Derisking custom technology projects: a handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
