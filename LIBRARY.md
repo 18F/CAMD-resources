@@ -2,9 +2,10 @@
 - [The Scrum guide](https://www.scrumguides.org/scrum-guide.html)
 - [18F Agile Guide](https://agile.18f.gov/) and [18F Product Guide](https://product-guide.18f.gov/)
 - [Suggested Reading List](https://usepa.sharepoint.com/:w:/r/sites/oar_Work/ampdupdate/_layouts/15/Doc.aspx?sourcedoc=%7BB9B051BA-59B2-4A88-86FB-643EAC6350F0%7D&file=Product%20and%20Agile%20-%20Suggested%20Reading%20List.docx&action=default&mobileredirect=true)
+- [Derisking custom technology projects: a handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 
 ## Previous 18F Projects
-- [Derisking custom technology projects: a handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
+
 - https://github.com/ONRR/doi-extractives-data/wiki/Observing-user-research
 - https://github.com/ustaxcourt/case-management-rfq
 - https://github.com/flexion/ef-cms
