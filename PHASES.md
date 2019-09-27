@@ -19,8 +19,8 @@ We have mapped out user processes in a number of ways - through use cases, user 
 - use those journey maps to sketch out value proposition canvases; this process will help you think about what stories you want to put in your backlog.
 
 #### Continue to story map
-We have been gathering user stories for a while now and we've talked about how these stories will help your vendors understand what user needs the CAMD suite should address.
-- After developing journey maps and value proposition canvases, come together as a team for a story writing workshop
+Continue to work on the end to end story map capturing the end to end funtions that a user can take while navigating through CAMD Suite. Use the high level themes to help gather the user actions at each step to get to high level epics that you can work with the vendor when they are onboard. Story maps will allow the vendor to understand how these user needs are to be met by the CAMD suite.
+- After developing the story map and value proposition canvases, come together as a team (with your vendor) for a story writing workshop
 - When you have vendors in place, this story map will help you onboard them. It will also serve as the basis for the backlog that you build together.
 
 #### Inventory EPA sites that offer similar or related value to AMPD
