@@ -31,6 +31,8 @@ Continue to work on the end to end story map capturing the end to end funtions t
 - If any of you can take trainings, such as the scrum master certification training, now is a great time to do so.  
 
 #### Study Materials
+The CAMD product team has discussed holding a weekly study/discussion group. Here are a few materials that we recommend you read and discuss together:
+
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 - [Journey mapping, 18F Method Cards](https://methods.18f.gov/decide/journey-mapping/)
