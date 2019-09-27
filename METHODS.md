@@ -43,7 +43,7 @@ You’ll use the methods in this section to:
 #### [Understanding Where to Begin: Story mapping](https://github.com/18F/CAMD-resources/blob/master/Week%206_%20Testing%20with%20users.pdf)
 - What are story maps and when do we use them
 
-#### [Catch all Product session]
+#### [Catch all Product Session](https://github.com/18F/CAMD-resources/blob/master/Week%208_%20Final%20Product%20Session.pdf)
  - Product vs feature
  - 'Waste' in product development
  - Prioritization techniques
