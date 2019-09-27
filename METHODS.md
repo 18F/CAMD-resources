@@ -43,6 +43,13 @@ You’ll use the methods in this section to:
 #### [Understanding Where to Begin: Story mapping](https://github.com/18F/CAMD-resources/blob/master/Week%206_%20Testing%20with%20users.pdf)
 - What are story maps and when do we use them
 
+#### [Catch all Product session]
+ - Product vs feature
+ - 'Waste' in product development
+ - Prioritization techniques
+ - User stories
+ 
+
 #### [Documentation best practices](https://github.com/18F/CAMD-resources/blob/master/Documentation%20best%20practices.pdf)
 - Documentation for code
 - Documentation for user research (including handling and storing PII)
