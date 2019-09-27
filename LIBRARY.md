@@ -1,7 +1,6 @@
 ## Product
-- Melissa Perri's [blog](https://melissaperri.com/blog/) and her book, [The Build Trap](https://melissaperri.com/book)
 - [The Scrum guide](https://www.scrumguides.org/scrum-guide.html)
-- Jeff Patton on story mapping: his book, [User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909), and a quick reference PDF, [Story Map Concepts](https://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)
+- [18F Agile Guide](https://agile.18f.gov/) and [18F Product Guide](https://product-guide.18f.gov/)
 - [Suggested Reading List](https://usepa.sharepoint.com/:w:/r/sites/oar_Work/ampdupdate/_layouts/15/Doc.aspx?sourcedoc=%7BB9B051BA-59B2-4A88-86FB-643EAC6350F0%7D&file=Product%20and%20Agile%20-%20Suggested%20Reading%20List.docx&action=default&mobileredirect=true)
 
 ## Previous 18F Projects
