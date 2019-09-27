@@ -33,6 +33,7 @@ Continue to work on the end to end story map capturing the end to end funtions t
 #### Study Materials
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+- [Journey mapping, 18F Method Cards](https://methods.18f.gov/decide/journey-mapping/)
 - [Managing stakeholder expectations template](https://github.com/18F/CAMD-resources/blob/master/e2f87e66-f412-4d82-8733-b40e4b4aa826.pdf)
 - [Dollars to Donuts](https://portigal.com/podcast/), a podcast presenting interviews on user research, hosted by Steve Portigal.
 
