@@ -60,7 +60,7 @@ You’ll use the methods in this section to:
 - move away from breaking the CAMDS up by existing systems an instead break it up based on the functionality that users need from it
 - test vendor work with users 
 
-#### Conducting user Interviews 
+#### [Conducting user Interviews](https://github.com/18F/CAMD-resources/blob/master/interview-guide.md) 
 
 
 #### [Identifying use cases + user flows](https://github.com/18F/CAMD-resources/blob/master/Use%20cases%20and%20user%20flows.pdf)
