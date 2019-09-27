@@ -8,7 +8,7 @@ In this section, we offer recommendations of how to apply this resource guide du
 What should the CAMD product team work on after 18F rolls off this project and before a vendor is in place? There are a number of things that we suggest:
 
 #### Map out your stakeholders and develop a strategy for building buy in
-You'll need approval from offices outside of the CAMD. Start understanding who these folks are and being building your relationships.
+You'll need approval from offices outside of the CAMD. Start understanding who these folks are and begin building your relationships.
  - Map out your paths to production and record the stakeholders that will be involved in that process.
 - Use [this template](https://github.com/18F/CAMD-resources/blob/master/e2f87e66-f412-4d82-8733-b40e4b4aa826.pdf) to map out who your stakeholders are and what level of communication you need to maintain with them  
 - socialize non-functional requirements to relevant stakeholders
