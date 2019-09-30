@@ -56,7 +56,7 @@ We've talked about the benefits of working closely an collaboratively with your 
   - In the pre-award phase, you gathered information about your users (their pains and needs), your systems, internal stakeholders, limitations, etc via Mission Model canvases, Value Proposition Canvases, User Flows, Journey Maps, hypothesis and outcomes statements, etc that lay the foundation and help you design a consolidated CAMD Suite. Use these frameworks and the incorporated information to have conversations with your new vendor teams to set the stage into development. 
   
 #### Hold a story map refinement workshop
-  - During this session, you can discuss the story map you developed along with some high level user stories you might have captured by now with your vendors. Collectively with the vendor, you can prioritizr and identify a 'thin slice' that you can begin development to allow for continuous iteration.
+  - During this session, you can discuss the story map you developed along with some high level user stories you might have captured by now with your vendors. Collectively with the vendor, you can prioritize and identify a 'thin slice' that you can begin development to allow for continuous iteration.
   
 #### Make sure vendors have access to everything that they need to begin working
   - This may sound basic, but it's not uncommon for vendors to wait a while before being able to get started becuase they can't get access to the necessary systems and tools. Be prepared to get them ready as soon as possible. 
