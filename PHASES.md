@@ -1,8 +1,10 @@
 # Contextualizing methods listed in this resources guide 
-In this section, we offer recommendations of how to apply this resource guide during different phases of your forthcoming work on the CAMD suite. We've broken down future work for the CAMD team into three phases that relate to future work with a vendor:
+In this section, we offer suggestions for the product team as it approaches forthcoming work on the CAMD suite. We've broken down future work for the CAMD team into three phases that relate to future work with a vendor:
 - [pre-award](https://github.com/18F/CAMD-resources/blob/master/PHASES.md#pre-award)
 - [onboarding](https://github.com/18F/CAMD-resources/blob/master/PHASES.md#onboarding)
 - [post-award](https://github.com/18F/CAMD-resources/blob/master/PHASES.md#post-award) 
+
+Note that all of the methods and materials in this guide will likely be relevant throughout all of these phases so please continue to use them whenever you see fit.
 
 ## Pre-award
 What should the CAMD product team work on after 18F rolls off this project and before a vendor is in place? There are a number of things that we suggest:
