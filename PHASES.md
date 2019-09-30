@@ -50,10 +50,10 @@ We've talked about the benefits of working closely an collaboratively with your 
   - What rituals/events will you hold together (sprint planning, sprint review, daily stand ups, etc)?
   - Identify the systems/technologies will the vendors need access to
   - Go through documentation best practices deck
-  - Set your **definition of done**, which will offer a common understanding of what needs to happen for a story to be complete. You can include criteria such as "code has been pair programmed or reviewed," "automated tests exist at all appropriae levels," "user documentation is updated," etc.).
+  - Set your **definition of done**, which will offer a common understanding of what needs to happen for a story to be complete. You can include criteria such as "code has been pair programmed or reviewed," "automated tests exist at all appropriae levels," "user documentation is updated," etc.). Review your nonfunctional requirements (the "ilities") with your vendor to help set your definition of done. 
   
 #### Hold a backlog refinement workshop
-  - during this session, you can discuss the user stories in your backlog with your vendors. They'll be able to give you feedback and you'll begin to incorporate their feedback into your work prioritization
+  - during this session, you can discuss the user stories in your backlog with your vendors. They'll be able to give you feedback and you'll begin to incorporate their feedback into your work prioritization.
   
 #### Make sure vendors have access to everything that they need to begin working
   - This may sound basic, but it's not uncommon for vendors to wait a while before being able to get started becuase they can't get access to the necessary systems and tools. Be prepared to get them ready as soon as possible. 
@@ -63,7 +63,7 @@ We've talked about the benefits of working closely an collaboratively with your 
 
 ### Maintaining a collaborative relationship
 As you work with your vendor, you'll continue to be the experts in user and business needs - the elements that drive the vision of the product. Let your vendors be the experts on implementation, ie, how to achieve that vision. A few tips:
-- instead of thinking of your vendors as staff augmentation that you have to manage, think of them as collaborators on your cross-functional team. 
+- instead of thinking of your vendors as staff augmentation that you have to manage, think of them as collaborators on your cross-functional team 
 - set a cadence of review for each sprint and give them heads down time to work in between sprint planning and sprint review.
 - communicate often and early
 - advocate for machine parsable code and plain language documentation
