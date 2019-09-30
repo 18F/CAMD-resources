@@ -21,7 +21,7 @@ We have mapped out user processes in a number of ways - through use cases, user 
 - use those journey maps to sketch out value proposition canvases; this process will help you think about what stories you want to put in your backlog.
 
 #### Continue to story map
-Continue to work on the end to end story map capturing the end to end funtions that a user can take while navigating through CAMD Suite. Use the high level themes to help gather the user actions at each step to get to high level epics that you can work with the vendor when they are onboard. Story maps will allow the vendor to understand how these user needs are to be met by the CAMD suite.
+Continue to work on the end to end story map capturing the end to end functions that a user can take while navigating through CAMD Suite. Use the high level themes to help gather the user actions at each step to get to high level epics that you can work with the vendor when they are onboard. Story maps will allow the vendor to understand how these user needs are to be met by the CAMD suite.
 - After developing the story map and value proposition canvases, come together as a team (with your vendor) for a story writing workshop
 - When you have vendors in place, this story map will help you onboard them. It will also serve as the basis for the backlog that you build together.
 
@@ -33,7 +33,10 @@ Continue to work on the end to end story map capturing the end to end funtions t
 - If any of you can take trainings, such as the scrum master certification training, now is a great time to do so.  
 
 #### Continue using RevAMPD  
-- Continue using RevAMPD as a sandbox to learn and master user centered, agile, product driven tech principles. Use the RevAMPD site to prototype in small increments (aka 'cupcake'model) to validate your hypothesis and desired outcomes.
+- Continue using RevAMPD as a sandbox to learn and master user centered, agile, product driven tech principles. Use the RevAMPD site to prototype in small increments (aka 'cupcake' model) to validate your hypothesis and desired outcomes.
+
+#### Observe your users interacting with your product  
+- During the pre-award phase, observe your users as they interact with your product(s) currently to refine and identify their pains and needs. This will allow for you to revise your value proposition canvas, personas and other user research frameworks and also cultivate interaction with your users and looping them into your product development process. 
 
 #### Study Materials
 The CAMD product team has discussed holding a weekly study/discussion group. Here are a few materials that we recommend you read and discuss together:
@@ -64,7 +67,7 @@ We've talked about the benefits of working closely an collaboratively with your 
   - During this session, you can discuss the story map you developed along with some high level user stories you might have captured by now with your vendors. Collectively with the vendor, you can prioritize and identify a 'thin slice' that you can begin development to allow for continuous iteration.
   
 #### Make sure vendors have access to everything that they need to begin working
-  - This may sound basic, but it's not uncommon for vendors to wait a while before being able to get started becuase they can't get access to the necessary systems and tools. Be prepared to get them ready as soon as possible. 
+  - This may sound basic, but it's not uncommon for vendors to wait a while before being able to get started because they can't get access to the necessary systems and tools. Be prepared to get them ready as soon as possible. 
 
 
 ## Post-award
@@ -78,4 +81,4 @@ As you work with your vendor, you'll continue to be the experts in user and busi
 
 ### Planning the work
 Since you'll be working in smaller increments than are typical in waterfall projects, you won't have a detailed, multi-year plan to start. This means that you'll have to do more planning along the way. 
-- set quartly planning sessions to write user stories and refine your backlog
+- Let your sprint candence help drive further planning and iterating
