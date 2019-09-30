@@ -32,6 +32,9 @@ Continue to work on the end to end story map capturing the end to end funtions t
 - Continue working together as a cross-functional and cross-branch product team. You've begun developing your team - keep growing together. See how you might apply scrum practices to other areas of your work.
 - If any of you can take trainings, such as the scrum master certification training, now is a great time to do so.  
 
+#### Continue using RevAMPD  
+- Continue using RevAMPD as a sandbox to learn and master user centered, agile, product driven tech principles. Use the RevAMPD site to prototype in small increments (aka 'cupcake'model) to validate your hypothesis and desired outcomes.
+
 #### Study Materials
 The CAMD product team has discussed holding a weekly study/discussion group. Here are a few materials that we recommend you read and discuss together:
 
