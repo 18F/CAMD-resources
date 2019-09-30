@@ -6,9 +6,9 @@
 
 ## Previous 18F Projects
 
-- https://github.com/ONRR/doi-extractives-data/wiki/Observing-user-research
-- https://github.com/ustaxcourt/case-management-rfq
-- https://github.com/flexion/ef-cms
+- [Example for user centered, agile product development](https://github.com/ONRR/doi-extractives-data/wiki/Observing-user-research) 
+- [Example that includes information on pre award documentation](https://github.com/ustaxcourt/case-management-rfq) and [the corresponding post award development repo](https://github.com/flexion/ef-cms)
+
 ## Design
 ### quick method resources
 - [18F method cards](https://methods.18f.gov/)
