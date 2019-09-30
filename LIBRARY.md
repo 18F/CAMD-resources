@@ -24,7 +24,10 @@
 - Adaptive Path’s experience Mapping PDF
 
 ### Miscellaneous
+- [GSA Tech Guide - Agile, UX, Tech best practices](https://tech.gsa.gov/guides/#API+Agile+Design+DevSecOps+Development+Team)
+- [Intro to Github](https://handbook.18f.gov/intro-to-github/)
 - [Dollars to Donuts](https://portigal.com/podcast/), a podcast presenting interviews on user research, hosted by Steve Portigal.
+
 
 ## Tech
 
