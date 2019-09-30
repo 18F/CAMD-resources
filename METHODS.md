@@ -12,6 +12,7 @@ You’ll use the methods in this section to:
 - Structure how you work together and continuously improve as a team
 - Communicate product decision making with stakeholders who are outside of the CAMD product team
 - Identify who to involve in the work and when to do so
+- Prioritize to work on the high value items and eliminate waste
 
 #### [People and Processes](https://github.com/18F/CAMD-resources/blob/master/Week%201_%20People%20and%20Process.pdf)
 - What’s the difference between project management and product management?
@@ -39,7 +40,6 @@ You’ll use the methods in this section to:
 - Working iteratively
 - FedRAMP Dashboard, an example
 
-
 #### [Understanding Where to Begin: Story mapping](https://github.com/18F/CAMD-resources/blob/master/Week%206_%20Testing%20with%20users.pdf)
 - What are story maps and when do we use them
 
@@ -49,12 +49,10 @@ You’ll use the methods in this section to:
  - Prioritization techniques
  - User stories
  
-
 #### [Documentation best practices](https://github.com/18F/CAMD-resources/blob/master/Documentation%20best%20practices.pdf)
 - Documentation for code
 - Documentation for user research (including handling and storing PII)
 - Documentation tips, generally
-
 
 ### User Research
 **Purpose**
@@ -83,7 +81,6 @@ Our use case and user flow work in [MURAL](https://app.mural.co/t/gsa6/m/gsa6/15
 - Examples of persona pitfalls
 - Keeping it simple
 
-
 #### [Creating user flows and journey maps](https://github.com/18F/CAMD-resources/blob/master/User%20Flows%20and%20Journey%20Maps.pdf)
 - the tl;dr
 - user flows
@@ -94,6 +91,7 @@ Our use case and user flow work in [MURAL](https://app.mural.co/t/gsa6/m/gsa6/15
 - Cognitive walk throughs
 - Usability testing
 - User acceptance testing
+
 #### [Working Responsibly with Personally Identifiable Information (PII)](https://github.com/18F/CAMD-resources/blob/master/Ethics%20and%20Privacy%20in%20User%20Research.pdf)
 - Storing PII and determining access
 - Creating codes for research participants
