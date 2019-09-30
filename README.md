@@ -1,5 +1,5 @@
 # CAMD Resource Guide
-This resource guide exists to support the EPA's Clean Air Markets Divison (CAMD) product team as it works with an Agile vendor to improve how the CAMD collects and publishes power plant emissions data. 
+This resource guide exists to support the EPA's Clean Air Markets Divison (CAMD) product team as it works with their vendor to improve how the CAMD collects and publishes power plant emissions data. 
 
 Included are:
 - [**Product, ux, and tech methods.**](https://github.com/18F/CAMD-resources/blob/master/METHODS.md) Primarily materials here are slide decks that 18F and the CAMD product team covered during its engagement together. We include relevant MURALs that we developed together as well. 
