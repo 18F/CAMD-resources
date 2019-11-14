@@ -1,8 +1,13 @@
 ## Product
+- [18F Product Guide](https://product-guide.18f.gov/)
+- [18F Agile Guide](https://agile.18f.gov/)
+- 18F Agile Series (recorded presentations):
+  - Foundations of Agile: [Part I](https://digital.gov/event/2019/11/04/foundations-agile-i/), [Part II](https://digital.gov/event/2019/11/05/foundations-agile-ii/)
+  - Basics of Scrum: [Part I](https://digital.gov/event/2019/11/08/basic-scrum-i/), [Part II](https://digital.gov/event/2019/11/12/basics-scrum-ii/)
+  - Intro to Kanban: [Part I](https://digital.gov/event/2019/11/13/intro-kanban-i/), [Part II](https://digital.gov/event/2019/11/14/intro-kanban-ii/)
+- [Derisking custom technology projects: an 18F handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 - [The Scrum guide](https://www.scrumguides.org/scrum-guide.html)
-- [18F Agile Guide](https://agile.18f.gov/) and [18F Product Guide](https://product-guide.18f.gov/)
 - [Suggested Reading List](https://usepa.sharepoint.com/:w:/r/sites/oar_Work/ampdupdate/_layouts/15/Doc.aspx?sourcedoc=%7BB9B051BA-59B2-4A88-86FB-643EAC6350F0%7D&file=Product%20and%20Agile%20-%20Suggested%20Reading%20List.docx&action=default&mobileredirect=true)
-- [Derisking custom technology projects: a handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 
 ## Previous 18F Projects
 
