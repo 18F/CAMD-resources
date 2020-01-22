@@ -114,7 +114,7 @@ You’ll use the methods in this section to:
 - Develop best practices in writing code
 - Develop a test-driven development practice
 
-#### [DevOps](https://github.com/18F/CAMD-resources/blob/master/Week%206_%20Testing%20with%20users.pdf)
+#### [DevOps](https://github.com/18F/CAMD-resources/blob/master/DevOps%20Overview.pdf)
 - What is DevOps?
 
 #### [Principles to good code](https://github.com/18F/CAMD-resources/blob/master/Code%20Quality%20principles.pdf)
